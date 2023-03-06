@@ -27,3 +27,9 @@ At the same time, we can see that many decisions (especially in Energy and Finan
 - This report provides the comprehensive outline on HOW global companies work on their exodus from russia amid the cruel invasion and war it started in Ukraine. However, the data in the original Yale SOM dataset do not have sufficient infromation about WHY we see what we see.
 
 There are both the value- and policy-driven factors that make an impact on the decision of the businesses to exit from russia amid its cruel aggression against Ukraine.
+
+# References
+
+The materials of this repo are reused in the blog posts and other online resources per the references below
+
+- https://www.kaggle.com/code/gvyshnya/corporate-exodus-from-ru/notebook
